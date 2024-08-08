@@ -1,6 +1,7 @@
-<img align="center" width="100%" height="300px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img align="center" width="100%" height="320px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <h1 align="center">Hi 👋, I'm Sarthak Chhabra</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="left">About me:</h3>
+<p>I'm a Computer Science student with a keen interest in web development. I thrive on bringing creative ideas to life through code and enjoy tackling new challenges.When I'm not coding, I find relaxation and excitement in activities like 🗒 <b>Sketching</b>, 🏸 <b>Badminton</b>, 🏐 <b>Volleyball</b>, and exploring new places through ✈️ <b>Travel</b>.Let's connect and collaborate!</p>
 <!-- <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg"> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/thumb_back/fw800/background/20231001/pngtree-3d-computer-and-yellow-code-a-programmer-s-toolbox-image_13526521.png"> -->
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacqHzE1DWt78IgVPyMn4rh0fFoGtBMIk7Rg&usqp=CAU">
