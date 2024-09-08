@@ -31,5 +31,5 @@
 <br>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=sarthakdeveloper1218&layout=compact&theme=dark" alt="sarthakdeveloper1218"/></p>
  --><br><br><br><br><br><br><br><br>
-<p><a align="centre" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakdeveloper1218&theme=transparent&card_width=820" alt="GitHub Streak" /></a></p>
+<p><a align="centre" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakdeveloper1218&theme=transparent&card_width=835" alt="GitHub Streak" /></a></p>
 
